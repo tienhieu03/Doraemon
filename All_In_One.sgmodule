@@ -1,5 +1,4 @@
 #!name=All In One
-#!desc=By: Nobita
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
